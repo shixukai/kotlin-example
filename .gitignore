@@ -1,0 +1,7 @@
+project-a/target
+.gpteng/
+*.jar
+project-a/src/main/.DS_Store
+project-a/src/main/kotlin/.DS_Store
+.DS_Store
+project-b/target
