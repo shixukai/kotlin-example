@@ -4,7 +4,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class MainApplication
+open class MainApplication
 
 fun main(args: Array<String>) {
     val context = runApplication<MainApplication>(*args)
