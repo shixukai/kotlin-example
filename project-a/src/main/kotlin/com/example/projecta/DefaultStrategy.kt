@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component
 @Component
 class DefaultStrategy : Strategy {
     override fun executeStrategy(): String {
-        return "Executing Default Strategy"
+        return "Executing DEFAULT Strategy"
     }
 }
